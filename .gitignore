@@ -1,0 +1,8 @@
+# Ignore compiled files and IDE settings
+*.class
+*.jar
+*.log
+bin/
+out/
+.vscode/
+.idea/
